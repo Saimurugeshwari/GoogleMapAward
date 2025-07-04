@@ -1,7 +1,7 @@
 # MapBuddy: Memory Support & Navigation Companion
 
 MapBuddy is a voice-enabled navigation companion designed to help people with **short-term memory loss**, **amnesia**, or **early-stage dementia** travel independently and safely. Unlike traditional GPS apps, MapBuddy reminds users of their **trip purpose**, gives **current location awareness**, and helps them re-orient themselves when confused.
-Joy doesn’t depend on memory—it lives in moments.
+Joy doesn’t depend on memory, it lives in moments.
 
 ## Key Features
 
